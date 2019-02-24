@@ -1,0 +1,21 @@
+Bug report 3
+
+Summary: In application "File Manager" icon visualisation of command buttons "new folder" and "delete" swapped
+
+Description:
+
+Bug on toolbar panel.
+
+Steps to reproduce:
+
+1) Launch application "File Manager".
+
+Expected result:
+
+- icon visualisation of command buttons "new folder" and "delete" match with meaning of this commands.
+ 
+Actual result:
+
+- visual icons and meaning of command buttons "new folder" and "delete" swapped on toolbar panel.
+ 
+Priority: Low

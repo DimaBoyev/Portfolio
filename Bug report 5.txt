@@ -1,0 +1,20 @@
+Bug report 5
+
+Summary: In application "File Manager" in interface window of work field navigation scroll slider unavailable
+
+Description:
+
+Steps to reproduce:
+
+1) Launch application "File Manager"
+2) Open folder with several files, which don't fit in the main area.
+
+Expected result:
+
+ - scroll slider button appears for navigation.
+
+Actual result:
+
+ - scroll slider button for navigation not appears.
+ 
+Priority: Low

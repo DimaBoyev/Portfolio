@@ -1,0 +1,20 @@
+Bug report 6
+
+Summary: In application "File Manager" buttons ''minimize''/''maximize''/''close'' for app window management unavailable
+
+Description:
+
+Problem with application window management.
+
+Steps to reproduce:
+1) Launch application "File Manager".
+
+Expected result: 
+
+ - buttons ''minimize''/''maximize''/''close'' for app window management available
+
+Actual result:
+
+ - buttons ''minimize''/''maximize''/''close'' for app window management unavailable
+ 
+Priority: Low

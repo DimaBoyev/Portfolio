@@ -1,0 +1,23 @@
+Bug report 2
+
+Summary: In application "File Manager" command button "Rename" duplicated on toolbar panel
+
+Description:
+
+It is two same command buttons "Rename" with same functions.
+
+Second one "Rename" button in a row of commands is redundant.
+
+Steps to reproduce:
+
+1. Launch application "File Manager".
+
+Expected result:
+
+- Icon of command button "Rename" indicated once without duplicate on toolbar panel in application.
+
+Actual result:
+
+- Command button "Rename" meets twice on toolbar panel in application.
+ 
+Priority: Medium

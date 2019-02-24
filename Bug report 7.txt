@@ -1,0 +1,22 @@
+Bug report 7
+
+Summary: In application "File Manager" on toolbar check box "Unselect All" inactive when check box "Select All" filled
+
+Description:
+
+Steps to reproduce: 
+
+1) Launch applicaion "File Manager";
+2) Open any folder on computer includes files in it through the application;
+3) Click on check box ''Select All" to select all files from displayed list;
+4) Click on check box ''Unselect All" to unselect all files from displayed list.
+
+Expected result:
+
+ - check mark inserted in check box "Unselect All" and cancels the command "Select All"
+
+Actual result:
+
+ - check box "Unselect all" becomes inactive when check box "Select All" filled.
+ 
+Priority: Low

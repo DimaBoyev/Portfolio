@@ -1,0 +1,21 @@
+Bug report 4
+
+Summary: In application "File Manager" not indicated name of left column of work field
+
+Description:
+
+Bug is on header of left column of work field.
+
+Steps to reproduce:
+1) Launch application "File Manager"
+2) Open any folder with files.
+
+Expected result:
+
+ - header of leftt column named "Icon".
+ 
+Actual result:
+
+ - header of left column is unnamed (empty).
+ 
+ Priority: Low

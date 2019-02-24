@@ -1,0 +1,20 @@
+Bug report 1
+
+Summary: In application "File Manager" user can not select all displayed files when put chek mark in chek box "Select All''	
+
+Description:
+
+Steps to produce:
+1) Launch applicaion "File Manager";
+2) Open any folder on computer with several files in it through the application;
+3) Put check mark in check box ''Select All" to select all files from displayed list;
+
+Expected result:
+
+ - all files to be selected from displayed list.
+
+Actual result:
+
+ - no one of files were not selected.
+ 
+ Priority: Medium
